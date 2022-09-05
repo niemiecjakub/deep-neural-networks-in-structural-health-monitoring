@@ -9,7 +9,9 @@ Satisfactory results have been achieved, my work shows modern approach to SHM wi
 <p align="center">
 <img src="https://user-images.githubusercontent.com/37275864/188509212-1f366011-7884-48df-ac56-633b8386bd93.PNG" alt="lab-img-1" width="800"/>
 </p>
+
 ## Files
+
 ```python
 src/transunet_model_train.ipynb
 ```
