@@ -28,5 +28,7 @@ src/measure_high_res_photos.ipynb
 ```
 Crack detection and crack measurement for high resolution image
 
+## Sample images
+
 ## Dataset
 For dataset nagivate to https://www.kaggle.com/datasets/jakubniemiec/concrete-crack-images
