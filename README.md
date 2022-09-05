@@ -6,7 +6,9 @@ In my work I compared deep learning models for image segmentation task (Unet, At
 Crack measurement algorithm is based on image processing, it was tested on  SDNET2019 images and laboratory images of high resoultion 4000x6000.
 
 Satisfactory results have been achieved, my work shows modern approach to SHM with use of deep learning methods
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/37275864/188509212-1f366011-7884-48df-ac56-633b8386bd93.PNG" alt="lab-img-1" width="800"/>
+</p>
 ## Files
 ```python
 src/transunet_model_train.ipynb
@@ -28,7 +30,16 @@ src/measure_high_res_photos.ipynb
 ```
 Crack detection and crack measurement for high resolution image
 
-## Sample images
-
 ## Dataset
 For dataset nagivate to https://www.kaggle.com/datasets/jakubniemiec/concrete-crack-images
+
+## Sample images
+<p align="center">
+<img src="https://user-images.githubusercontent.com/37275864/188509208-44dd8b9d-59bb-47cc-8eff-e4fdee49b6d9.png" alt="sample-measurement" width="600"/>
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/37275864/188509209-216d35cb-17c9-4866-9b18-b49c2c56a847.png" alt="segmentation-results" width="600"/>
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/37275864/188509217-e116d151-e834-4dd9-982a-2512423137d6.png" alt="lab-img-2" width="800"/>
+</p>
