@@ -1,7 +1,6 @@
-# master's thesis: Deep neural networks in structural health monitoring
+# Deep neural networks in structural health monitoring
 
 In my work I compared deep learning models for image segmentation task (Unet, Attention-Unet,Transunet) in concrete crack detection, developed crack measurement algorithm and created public dataset for similar use case.
-
 
 Crack measurement algorithm is based on image processing, it was tested on  SDNET2019 images and laboratory images of high resoultion 4000x6000.
 
@@ -9,6 +8,9 @@ Satisfactory results have been achieved, my work shows modern approach to SHM wi
 <p align="center">
 <img src="https://user-images.githubusercontent.com/37275864/188509212-1f366011-7884-48df-ac56-633b8386bd93.PNG" alt="lab-img-1" width="800"/>
 </p>
+
+Measuring crack in real units is done by palcing reference object which dimentions are known - here checkboard 9x13 with size of one check 20mm was used.
+Points of checkboard are localized in the image, horizontal distance between two nearest points are calculated in pixels, then px/mm ratio is calculated by obtaining mean value from measurements
 
 ## Files
 
