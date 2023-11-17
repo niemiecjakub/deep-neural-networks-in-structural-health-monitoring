@@ -12,6 +12,8 @@ Satisfactory results have been achieved, my work shows modern approach to SHM wi
 Measuring crack in real units is done by palcing reference object which dimentions are known - here checkboard 9x13 with size of one check 20mm was used.
 Points of checkboard are localized in the image, horizontal distance between two nearest points are calculated in pixels, then px/mm ratio is calculated by obtaining mean value from measurements
 
+![image (1)](https://github.com/niemiecjakub/masters-thesis/assets/37275864/c79e5a80-fc4f-4bbb-819d-2bee94c76b24)
+
 ## Files
 
 ```python
@@ -47,3 +49,7 @@ For dataset nagivate to https://www.kaggle.com/datasets/jakubniemiec/concrete-cr
 <p align="center">
 <img src="https://user-images.githubusercontent.com/37275864/188509217-e116d151-e834-4dd9-982a-2512423137d6.png" alt="lab-img-2" width="800"/>
 </p>
+
+![image (2)](https://github.com/niemiecjakub/masters-thesis/assets/37275864/3178bfba-565d-4c32-9564-0960f92ecafa)
+
+![image (3)](https://github.com/niemiecjakub/masters-thesis/assets/37275864/989e31e8-de90-4c5a-a5b0-3300f347cba3)
