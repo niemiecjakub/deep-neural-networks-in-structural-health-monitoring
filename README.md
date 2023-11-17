@@ -18,7 +18,7 @@ Points of checkboard are localized in the image, horizontal distance between two
 ## General schema
 ![Schemat zadania](https://github.com/niemiecjakub/masters-thesis-Deep-neural-networks-in-structural-health-monitoring/assets/37275864/fe035086-9852-4845-9a0e-2f87f11f7db0)
 
-## Algorithm block diagram 
+## Algorithm - block diagram 
 ![Schemat blokowy algorytmu](https://github.com/niemiecjakub/masters-thesis-Deep-neural-networks-in-structural-health-monitoring/assets/37275864/bbe36eb8-5abb-416a-9d8b-ab6a34d05f6f)
 
 
