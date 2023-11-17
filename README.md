@@ -9,10 +9,18 @@ Satisfactory results have been achieved, my work shows modern approach to SHM wi
 <img src="https://user-images.githubusercontent.com/37275864/188509212-1f366011-7884-48df-ac56-633b8386bd93.PNG" alt="lab-img-1" width="800"/>
 </p>
 
+## Real unit measurement
 Measuring crack in real units is done by palcing reference object which dimentions are known - here checkboard 9x13 with size of one check 20mm was used.
 Points of checkboard are localized in the image, horizontal distance between two nearest points are calculated in pixels, then px/mm ratio is calculated by obtaining mean value from measurements
 
 ![image (1)](https://github.com/niemiecjakub/masters-thesis/assets/37275864/c79e5a80-fc4f-4bbb-819d-2bee94c76b24)
+
+## General schema
+![Schemat zadania](https://github.com/niemiecjakub/masters-thesis-Deep-neural-networks-in-structural-health-monitoring/assets/37275864/fe035086-9852-4845-9a0e-2f87f11f7db0)
+
+## Algorithm block diagram 
+![Schemat blokowy algorytmu](https://github.com/niemiecjakub/masters-thesis-Deep-neural-networks-in-structural-health-monitoring/assets/37275864/bbe36eb8-5abb-416a-9d8b-ab6a34d05f6f)
+
 
 ## Files
 
